@@ -1,4 +1,3 @@
-set ff:unix
 colorscheme murphy
 set number
 set hlsearch
